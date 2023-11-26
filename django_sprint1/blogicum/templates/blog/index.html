@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block title %}Лента записей{% endblock %}
+{% block main %}
+  <h1>Лента записей</h1>                        
+  {% for post in posts %}
+    <hr>
+    {% include 'includes/post_card.html' %}
+  {% endfor %}
+{% endblock %}
