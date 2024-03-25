@@ -1,5 +1,0 @@
-IP: 158.160.85.217;
-name_taski: https://t4skiii.ddns.net;
-name_kittygram: https://kitygram.zapto.org;
-login: admin;
-password: admin;
