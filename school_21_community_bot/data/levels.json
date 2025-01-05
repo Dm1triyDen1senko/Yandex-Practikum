@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Студент (Стажер)"
+    },
+    {
+        "id": 2,
+        "name": "Junior"
+    },
+    {
+        "id": 3,
+        "name": "Middle"
+    },
+    {
+        "id": 4,
+        "name": "Senior"
+    },
+    {
+        "id": 5,
+        "name": "Lead"
+    },
+    {
+        "id": 6,
+        "name": "Студент (Стажер+)"
+    },
+    {
+        "id": 7,
+        "name": "Junior+"
+    },
+    {
+        "id": 8,
+        "name": "Middle+"
+    },
+    {
+        "id": 9,
+        "name": "Senior+"
+    },
+    {
+        "id": 10,
+        "name": "Lead+"
+    },
+    {
+        "id": 11,
+        "name": "Студент (Стажер++)"
+    },
+    {
+        "id": 12,
+        "name": "Junior++"
+    },
+    {
+        "id": 13,
+        "name": "Middle++"
+    },
+    {
+        "id": 14,
+        "name": "Senior++"
+    },
+    {
+        "id": 15,
+        "name": "Lead++"
+    }
+]

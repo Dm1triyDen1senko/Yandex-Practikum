@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Administrator"
+    },
+    {
+      "id": 2,
+      "name": "User"
+    },
+    {
+      "id": 3,
+      "name": "Manager"
+    },
+    {
+      "id": 4,
+      "name": "Moderator"
+    },
+    {
+      "id": 5,
+      "name": "Editor"
+    },
+    {
+      "id": 6,
+      "name": "Viewer"
+    },
+    {
+      "id": 7,
+      "name": "Guest"
+    },
+    {
+      "id": 8,
+      "name": "Moderator+"
+    },
+    {
+      "id": 9,
+      "name": "Editor+"
+    },
+    {
+      "id": 10,
+      "name": "Viewer+"
+    },
+    {
+      "id": 11,
+      "name": "Guest+"
+    },
+    {
+      "id": 12,
+      "name": "Developer"
+    },
+    {
+      "id": 13,
+      "name": "Designer"
+    },
+    {
+      "id": 14,
+      "name": "Tester"
+    },
+    {
+      "id": 15,
+      "name": "Analyst"
+    }
+  ]
